@@ -88,7 +88,7 @@ module.exports = nativeDescription: "Svenska", englishDescription: "Swedish", tr
 #    teachers_love_codecombat_blurb3: "Say that CodeCombat helps them support students’ problem solving abilities"
 #    teachers_love_codecombat_subblurb: "In partnership with McREL International, a leader in research-based guidance and evaluations of educational technology."
 #    try_the_game: "Try the game"
-    classroom_edition: "Klassrumutgåven:"
+    classroom_edition: "Klassrumsutgåva:"
     learn_to_code: "Lär dig koda:"
     play_now: "Spela nu"
 #    im_an_educator: "I'm an Educator"
